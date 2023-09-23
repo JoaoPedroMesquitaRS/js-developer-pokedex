@@ -3,10 +3,14 @@
 ## Technologies
 
 ### Desktop: 
-![](https://github.com/JoaoPedroMesquitaRS/js-developer-pokedex/blob/13daed0475e1ef2db40d920fb14793417259fd35/assets/videos/desktop.mp4)
+<p> 
+    <img width="1000" height="500" src="/assets/videos/desktop.mp4">
+</p>
 
 ### Mobile:
-![](https://github.com/JoaoPedroMesquitaRS/js-developer-pokedex/blob/13daed0475e1ef2db40d920fb14793417259fd35/assets/videos/mobile.mp4)
+<p> 
+    <img width="1000" height="500" src="/assets/videos/mobile.mp4">
+</p>
 
 - HTML
 - CSS
